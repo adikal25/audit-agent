@@ -136,6 +136,12 @@ Roles (`contractor` → `admin`) map to sets of sensitivities in `corpus/acl.yam
 
 Python 3.13 · uv · FastAPI · Pydantic v2 · Postgres 16 + pgvector · sentence-transformers · OpenRouter (chat) · Streamlit · structlog · pytest · ruff · Docker Compose · Kubernetes (kind)
 
+## Docs
+
+- [docs/architecture.html](docs/architecture.html) — the visual design dossier: system diagram, the RBAC gate, the hash chain, the agent loop
+- [docs/concepts.md](docs/concepts.md) — concepts & technologies per phase, and how each is applied (the learning syllabus)
+- [docs/hash-chain.md](docs/hash-chain.md) — the hash chain explained end to end: fingerprints, chaining, a worked tamper-detection example, and the anchoring limitation
+
 ## Status
 
 Phase 0. Nothing runs yet — by design: the *why* was written before the code, and every phase ends with something runnable and verified.

@@ -13,4 +13,8 @@ build/
 .vscode/
 *.log
 .claude
-CLAUDE.md
+.pytest_cache/
+.ruff_cache/
+reports/
+docs/
+evals/
