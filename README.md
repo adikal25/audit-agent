@@ -138,6 +138,7 @@ Python 3.13 · uv · FastAPI · Pydantic v2 · Postgres 16 + pgvector · sentenc
 
 ## Docs
 
+- [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) — build milestones, acceptance checks, and the portfolio demonstration plan
 - [docs/architecture.html](docs/architecture.html) — the visual design dossier: system diagram, the RBAC gate, the hash chain, the agent loop
 - [docs/concepts.md](docs/concepts.md) — concepts & technologies per phase, and how each is applied (the learning syllabus)
 - [docs/hash-chain.md](docs/hash-chain.md) — the hash chain explained end to end: fingerprints, chaining, a worked tamper-detection example, and the anchoring limitation
